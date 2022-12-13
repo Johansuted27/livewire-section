@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
         integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Livewire Section</title>
 
     @livewireStyles
 
@@ -28,8 +28,7 @@
                             <h5 class="mt-0">Steven</h5>
                             <p>
                                 Has 3+ years of experience as a web developer starting from building frontend and
-                                backend systems of a website and also making REST API services. Currently studying at
-                                Mercu Buana University in the Informatics Engineering study program. Enjoy and excited
+                                backend systems of a website and also making REST API services. Enjoy and excited
                                 to explore new technologies and build applications to get new and valuable experiences
                                 that can improve skills later
                             </p>
